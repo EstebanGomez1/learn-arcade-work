@@ -1,2 +1,2 @@
-test
+print("Hola\nsoy\nesteban")
 
